@@ -1,5 +1,5 @@
 #
-# Java 1.8 Alpine & Maven Dockerfile
+# Alpine with Java 1.8 & Maven Dockerfile
 #
 
 # pull base image.
